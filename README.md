@@ -6,7 +6,7 @@
 
 ###
 
-<p align="justify">Olá, meu nome é Matheus Machado! Sou um desenvolvedor back-end com foco em Python, Flask e SQLite, criando aplicações web e trabalhando principalmente com estrutura do sistema, rotas e banco de dados, além de integrar o back-end com a interface quando necessário. Atualmente curso Análise e Desenvolvimento de Sistemas no Instituto Infnet e busco uma oportunidade de estágio na área de desenvolvimento.
+<p align="justify">Olá, meu nome é Matheus Machado! Sou um desenvolvedor back-end com foco em Python, Flask e SQLite, criando aplicações web e trabalhando principalmente com estrutura do sistema, rotas e banco de dados, além de integrar o back-end com a interface quando necessário. Atualmente curso Análise e Desenvolvimento de Sistemas no Instituto Infnet e busco uma oportunidade de estágio.
 </p>
 
 ###
