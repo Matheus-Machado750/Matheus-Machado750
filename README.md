@@ -44,8 +44,8 @@
 
 <br clear="both">
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Matheus-Machado750&show_icons=true&theme=prussian&hide_border=true" height="150" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Matheus-Machado750&layout=compact&theme=prussian&hide_border=true" height="150" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Matheus-Machado750&show_icons=true&theme=prussian&hide_border=true" height="160" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Matheus-Machado750&layout=compact&theme=prussian&hide_border=true" height="160" />
 </p>
 
 ###
